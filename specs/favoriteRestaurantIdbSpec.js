@@ -1,5 +1,5 @@
 import { itActsAsFavoriteRestaurantModel } from "./contract/favoriteRestaurantContract";
-import FavoriteRestoIdb from "../src/scripts/data/favaorite-restaurant-idb";
+import FavoriteRestoIdb from "../src/scripts/data/favorite-restaurant-idb";
 
 describe("Favorite Restaurant Idb Contract Test Implementation", () => {
   afterEach(async () => {

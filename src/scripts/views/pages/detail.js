@@ -7,7 +7,7 @@ import RestaurantDbSource from "../../data/restaurantdb-source";
 import { createRestaurantDetail } from "../templates/template-creator";
 import ReviewButtonInitiator from "../../utils/review-button";
 import LikeButtonInitiator from "../../utils/like-button-initiator";
-import FavoriteRestoIdb from "../../data/favaorite-restaurant-idb";
+import FavoriteRestoIdb from "../../data/favorite-restaurant-idb";
 
 const Detail = {
   async render() {

@@ -1,4 +1,4 @@
-import FavoriteRestoIdb from "../src/scripts/data/favaorite-restaurant-idb";
+import FavoriteRestoIdb from "../src/scripts/data/favorite-restaurant-idb";
 import * as TestFactories from "./helpers/testFactories";
 
 describe("Liking A Restaurant", () => {

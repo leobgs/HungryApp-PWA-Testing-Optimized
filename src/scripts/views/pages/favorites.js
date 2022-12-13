@@ -3,7 +3,7 @@
 /* eslint-disable linebreak-style */
 /* eslint-disable quotes */
 /* eslint-disable linebreak-style */
-import FavoriteRestoIdb from "../../data/favaorite-restaurant-idb";
+import FavoriteRestoIdb from "../../data/favorite-restaurant-idb";
 import { createRestaurantItem } from "../templates/template-creator";
 
 const Favorite = {
